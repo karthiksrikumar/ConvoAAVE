@@ -13,10 +13,10 @@ AI language models are trained on text that systematically excludes, misrepresen
 - **Cultural appropriation** when AI systems use AAVE without context or respect
 - **Exclusion** from the benefits of language technology advancement
 
-**This isn't just a technical problemit's a justice issue.**
+**This isn't just a technical problem; it's a justice issue.**
 
 <img width="509" height="137" alt="image" src="https://github.com/user-attachments/assets/ee6c520d-17c3-4790-afbe-243b31b0fb3e" />
-This LLM connects AAVE with stereotypes such as basketball, rap, and certain clothes, which is clearly steoretyping and marginalizing many people using AAVE when using LLMs.
+This LLM connects AAVE with stereotypes such as basketball, rap, and certain clothes, which is clearly steoretyping and marginalizing many people using AAVE when using LLMs. In a survey of 50 Black Students, 0/50 of them said that this sounded like real talk they could have. Also "Henny"? We need to do better.
 
 ### The Novel Community Methods we took
 
