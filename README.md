@@ -130,8 +130,7 @@ MIT for the code and the released transcripts — see [LICENSE](LICENSE). Audio 
 
 ## Acknowledgments
 
-To the community members who trusted us with their words; to the partner churches, schools, and community centers in Hartford, Philadelphia, and Los Angeles; and to the sociolinguists whose work on AAVE made it obvious that the dialect has grammar worth getting right.
+To the community members who trusted us with their words; to the partner churches, schools, and community centers in Hartford, East Hartford; and to the sociolinguists whose work on AAVE made it obvious that the dialect has grammar worth getting right. 
 
 ---
 
-*Machina Mundi — Innovate. Empower. Elevate.*
