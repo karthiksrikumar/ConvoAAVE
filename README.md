@@ -4,7 +4,7 @@
 
 A project of [Machina Mundi](https://machinamundi.vercel.app) — Project POLLEN (Preserving Oral Language & Linguistic Equity Now).
 
-> *"When our children ask a voice assistant a question, they deserve to be understood."* — Hartford community member
+> *"When our students engage with technology, they need to be understood."* — Hartford community member
 
 ---
 
