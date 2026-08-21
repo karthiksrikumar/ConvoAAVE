@@ -18,7 +18,7 @@ That failure is now load-bearing. Voice assistants, automatic captioning, medica
 
 ## What ConvoAAVE is
 
-ConvoAAVE is a speech corpus: conversations and first-person narratives recorded with community members in Hartford, Philadelphia, and Los Angeles, then transcribed to preserve AAVE grammar rather than normalize it away.
+ConvoAAVE is a speech corpus: conversations and first-person narratives recorded with community members across Hartford and East Hartford, Connecticut, then transcribed to preserve AAVE grammar rather than normalize it away.
 
 **The audio is not published, and will not be.** A voice identifies a person. These recordings are named community members talking about their own lives, their families, and their neighborhoods. Releasing the audio would expose the people who agreed to be recorded in order to make the corpus more convenient for researchers. That trade is not ours to make.
 
@@ -118,7 +118,7 @@ Researchers who need the audio for legitimate speech work can contact Machina Mu
 
 Stated plainly, because a dataset used for evaluation has to be honest about its own edges:
 
-- Regional coverage is uneven, weighted toward Hartford.
+- Coverage is limited to Hartford and East Hartford, Connecticut. The corpus does not represent regional variation in AAVE beyond that area, and should not be treated as a national sample.
 - Speaker-level demographic and regional metadata is incomplete.
 - The construction examples are constructed illustrations, not spontaneous speech, and should be treated as a diagnostic set rather than as naturalistic data.
 - The two social-media files are written text and are not representative of speech.
